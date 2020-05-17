@@ -146,7 +146,7 @@ const bigProjects = {
 const achievementSection = {
 
   title: emoji("Conquistas e Certificações 🏆 "),
-  subtitle: "Conquistas, Certificações, Award Letters and Some Cool Stuff that I have done !",
+  subtitle: "Conquistas, Certificações, Honrarias e Outras Coisas Legais Recebidas !",
 
   achivementsCards: [
     {
@@ -166,7 +166,7 @@ const achievementSection = {
 const blogSection = {
 
   title: "Postagens / Artigos",
-  subtitle: "O amor pela área de software me faz gostar de compartilhar conhecimentos através da publicações",
+  subtitle: "O amor pela área de software me faz gostar de compartilhar conhecimentos através das publicações",
 
   blogs: [
     {
