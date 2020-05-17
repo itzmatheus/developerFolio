@@ -70,3 +70,37 @@
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
 }
+
+.Arduino { background: #bd79d1 ; color: #bd79d1; }
+.ASP { background: #6a40fd ; color: #6a40fd; }
+.Assembly { background: #6E4C13 ; color: #6E4C13; }
+.C-Sharp { background: #178600 ; color: #178600; }
+.C { background: #555555 ; color: #555555; }
+.Clojure { background: #db5855 ; color: #db5855; }
+.CSS { background: #563d7c ; color: #563d7c; }
+.Dart { background:00B4AB # ; color: #00B4AB; }
+.Elixir { background:6e4a7e # ; color: #6e4a7e; }
+.Go { background: #375eab ; color: #375eab; }
+.Groovy { background: #e69f56 ; color: #e69f56; }
+.Haskell { background: #29b544 ; color: #29b544; }
+.HTML { background: #e44b23 ; color: #e44b23; }
+.Java { background: #b07219 ; color: #b07219; }
+.JavaScript { background: #f1e05a ; color: #f1e05a; }
+.Julia { background: #a270ba ; color: #a270ba; }
+.Jupyter-Notebook { background: #DA5B0B ; color: #DA5B0B; }
+.Kotlin { background: #F18E33 ; color: #F18E33; }
+.Objective-C { background: #438eff ; color: #438eff; }
+.Perl { background: #0298c3 ; color: #0298c3; }
+.Perl6 { background: #0000fb ; color: #0000fb; }
+.PHP { background: #4F5D95 ; color: #4F5D95; }
+.PLSQL { background: #dad8d8 ; color: #dad8d8; }
+.Python { background: #3572A5 ; color: #3572A5; }
+.R { background: #198ce7 ; color: #198ce7; }
+.Ruby { background: #701516 ; color: #701516; }
+.Rust { background: #dea584 ; color: #dea584; }
+.SAS { background: #B34936 ; color: #B34936; }
+.Scala { background: #DC322F ; color: #DC322F; }
+.Shell { background: #89e051 ; color: #89e051; }
+.Swift { background: #ffac45 ; color: #ffac45; }
+.TypeScript { background: #2b7489 ; color: #2b7489; }
+.Vue { background: #2c3e50 ; color: #2c3e50; }

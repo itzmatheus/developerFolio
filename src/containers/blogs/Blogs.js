@@ -19,7 +19,6 @@ export default function Blogs() {
               <BlogCard
                 blog={{
                   url: blog.url,
-                  image: blog.image,
                   title: blog.title,
                   description: blog.description
                 }}
